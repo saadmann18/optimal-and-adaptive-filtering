@@ -1,0 +1,48 @@
+# PDF files - exercise sheets and solutions
+*.pdf
+
+# ZIP files - compressed materials
+*.zip
+*.rar
+*.7z
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Documentation and submission files
+submission*
+handout*
+README*
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Keep visualization files and code
+!*.png
+!*.jpg
+!*.jpeg
+!*.gif
+!*.py
+!*.ipynb
+!*.m
+!*.dat
+!*.raw
