@@ -46,3 +46,6 @@ __pycache__/
 !*.m
 !*.dat
 !*.raw
+
+# Allow README files
+!README.md
